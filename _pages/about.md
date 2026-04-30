@@ -66,7 +66,7 @@ Tokyo, Japan
 Mentor: Taketo Akama.  
 Developed an instrument sound synthesis model using diffusion-based generative models.
 
-### <img src="/images/logos/Dolby.svg" alt="Dolby" class="org-logo"> Research Intern  
+### <img src="/images/logos/dolby.png" alt="Dolby" class="org-logo"> Research Intern  
 **Dolby Laboratories**  
 Sydney, Australia  
 *May 2024 – September 2024*  
@@ -74,7 +74,7 @@ Sydney, Australia
 Mentors: Jeroen Breebaart and Jeremy Stoddard.  
 Worked on acoustic context estimation from ambisonic speech recordings, including DRR, T60, C50, room volume, and sound orientation. This work led to an ICASSP 2025 paper and an extended EURASIP journal paper.
 
-### <img src="/images/logos/cas.png" alt="Chinese Academy of Sciences" class="org-logo"> Research Assistant  
+### <img src="/images/logos/iscas.png" alt="Chinese Academy of Sciences" class="org-logo"> Research Assistant  
 **Institute of Software, Chinese Academy of Sciences**  
 Beijing, China  
 *February 2021 – July 2021*  
