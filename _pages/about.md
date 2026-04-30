@@ -87,45 +87,49 @@ Worked on parallel computing and deep learning-based image segmentation for indu
 
 ## Publications
 
+<div class="pub-list" markdown="1">
+
 ### Journal Paper
 
 **A unified deep learning framework for estimating acoustic context parameters from first order ambisonic speech recordings**  
-H. Meng, J. Breebaart, J. Stoddard, V. Sethu, and E. Ambikairajah  
+<span class="me">H. Meng</span>, J. Breebaart, J. Stoddard, V. Sethu, and E. Ambikairajah  
 *EURASIP Journal on Audio, Speech, and Music Processing*, 2026.  
 DOI: 10.1186/s13636-025-00443-0
 
 ### Conference Papers
 
 **Auto-MatchCut: An audio-visual retrieval framework for seamless match cutting**  
-H. Chen, H. Meng, G. Bhattacharya, L. Lu, J. Kimball, and R. Rossi  
+H. Chen, <span class="me">H. Meng</span>, G. Bhattacharya, L. Lu, J. Kimball, and R. Rossi  
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
 
 **Adaptive per-channel energy normalization front-end for robust audio signal processing**  
-H. Meng, V. Sethu, E. Ambikairajah, Q. Zhang, and H. Li  
+<span class="me">H. Meng</span>, V. Sethu, E. Ambikairajah, Q. Zhang, and H. Li  
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
 
 **Joint estimation of piano dynamics and metrical structure with a multitask multi-scale CNN**  
-Z. He, H. Meng, D. Huang, and R. Togneri  
+Z. He, <span class="me">H. Meng</span>, D. Huang, and R. Togneri  
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
 
 **Blind estimation of sub-band acoustic parameters from ambisonics recordings using spectro-spatial covariance features**  
-H. Meng, J. Breebaart, J. Stoddard, V. Sethu, and E. Ambikairajah  
+<span class="me">H. Meng</span>, J. Breebaart, J. Stoddard, V. Sethu, and E. Ambikairajah  
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.  
 DOI: 10.1109/ICASSP49660.2025.10887842
 
 **Binaural selective attention model for target speaker extraction**  
-H. Meng, Q. Zhang, X. Zhang, V. Sethu, and E. Ambikairajah  
+<span class="me">H. Meng</span>, Q. Zhang, X. Zhang, V. Sethu, and E. Ambikairajah  
 *Proc. Interspeech*, 2024, pp. 4323–4327.  
 DOI: 10.21437/Interspeech.2024-683
 
 **Speaking in wavelet domain: A simple and efficient approach to speed up speech diffusion model**  
-X. Zhang, D. Liu, H. Liu, Q. Zhang, H. Meng, L. P. Garcia, E. S. Chng, and L. Yao  
+X. Zhang, D. Liu, H. Liu, Q. Zhang, <span class="me">H. Meng</span>, L. P. Garcia, E. S. Chng, and L. Yao  
 *Empirical Methods in Natural Language Processing (EMNLP)*, 2024.
 
 **What is learnt by the LEArnable Front-end (LEAF)? Adapting Per-Channel Energy Normalisation (PCEN) to noisy conditions**  
-H. Meng, V. Sethu, and E. Ambikairajah  
+<span class="me">H. Meng</span>, V. Sethu, and E. Ambikairajah  
 *Proc. Interspeech*, 2023, pp. 2898–2902.  
 DOI: 10.21437/Interspeech.2023-1617
+
+</div>
 
 ---
 

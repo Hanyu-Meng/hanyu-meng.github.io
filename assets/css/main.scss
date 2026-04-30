@@ -43,9 +43,29 @@
 ;
 
 .org-logo {
-  height: 1.6em;
+  height: 1em;
   width: auto;
   vertical-align: middle;
   margin-right: 0.5em;
   object-fit: contain;
+}
+
+.me {
+  color: #b03a2e;
+  font-weight: 700;
+}
+
+.pub-list p {
+  margin: 0.6em 0 1.4em;
+  padding: 0.5em 0 0.5em 1em;
+  border-left: 3px solid #b03a2e;
+  line-height: 1.6;
+}
+
+.pub-list strong {
+  font-size: 1.05em;
+}
+
+.pub-list em {
+  color: #555;
 }
