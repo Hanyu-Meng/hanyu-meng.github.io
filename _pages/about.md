@@ -11,9 +11,13 @@ redirect_from:
 
 I am a Ph.D. candidate in Speech Signal Processing at the University of New South Wales (UNSW), Sydney. My research focuses on binaural and spatial hearing for machine listening, with an emphasis on computational auditory modelling and deep neural networks that emulate human auditory processing.
 
-My broader research interests include speech and audio synthesis, binaural speech enhancement, robust automatic speech recognition, room-acoustic modelling, and music information retrieval (MIR), including symbolic music understanding, automatic music transcription, and generative AI for MIR.
+My research interests include:
 
-I am a student member of the International Speech Communication Association (ISCA) and the IEEE Signal Processing Society (SPS).
+- **Binaural and Spatial Hearing for Machine Listening** — spatial cues, binaural modelling, target speaker extraction, sound source localisation, and selective auditory attention.
+- **Computational Auditory Modelling** — biologically inspired audio front-ends that emulate human auditory processing (e.g., adaptive gain control, dynamic range compression).
+- **Room-Acoustic and Spatial Audio Modelling** — estimation of reverberation, DRR, clarity, room volume, and sound orientation from ambisonic recordings.
+- **Music Information Retrieval** — symbolic music understanding, automatic transcription, and generative AI for music.
+
 
 ---
 
@@ -66,7 +70,7 @@ Tokyo, Japan
 Mentor: Taketo Akama.  
 Developed an instrument sound synthesis model using diffusion-based generative models.
 
-### <img src="/images/logos/dolby.png" alt="Dolby" class="org-logo"> Research Intern  
+### <img src="/images/logos/dolby.png" alt="Dolby" class="org-logo org-logo-medium"> Research Intern  
 **Dolby Laboratories**  
 Sydney, Australia  
 *May 2024 – September 2024*  
@@ -74,7 +78,7 @@ Sydney, Australia
 Mentors: Jeroen Breebaart and Jeremy Stoddard.  
 Worked on acoustic context estimation from ambisonic speech recordings, including DRR, T60, C50, room volume, and sound orientation. This work led to an ICASSP 2025 paper and an extended EURASIP journal paper.
 
-### <img src="/images/logos/iscas.png" alt="Chinese Academy of Sciences" class="org-logo"> Research Assistant  
+### <img src="/images/logos/iscas.png" alt="Chinese Academy of Sciences" class="org-logo org-logo-medium"> Research Assistant  
 **Institute of Software, Chinese Academy of Sciences**  
 Beijing, China  
 *February 2021 – July 2021*  
@@ -133,32 +137,11 @@ DOI: 10.21437/Interspeech.2023-1617
 
 ---
 
-<section id="research"></section>
-
-## Research Interests
-
-### Binaural and Spatial Hearing for Machine Listening
-
-My research investigates how binaural and spatial hearing mechanisms can be modelled computationally to support robust machine listening. I am particularly interested in spatial cues, binaural modelling, target speaker extraction, sound source localisation, and selective auditory attention.
-
-### Computational Auditory Modelling
-
-I develop biologically inspired and interpretable audio front-ends that emulate aspects of human auditory processing, including adaptive gain control, dynamic range compression, and robust acoustic representation learning.
-
-### Room-Acoustic and Spatial Audio Modelling
-
-I work on acoustic context estimation from spatial audio recordings, including the estimation of reverberation time, direct-to-reverberant ratio, clarity, room volume, and sound orientation from ambisonic speech recordings.
-
-### Music Information Retrieval
-
-I am also interested in symbolic music understanding, automatic music transcription, perceptually motivated audio features, and generative AI for music information retrieval.
-
----
-
 <section id="awards"></section>
 
 ## Awards
-
+- The Australasian Speech Science and Technology Association (ASSTA) Conference Travel Awards (2026).
+- Asian Deans’ Forum 2025, The Rising Stars Women in Engineering Workshop (November 2025).
 - IEEE Signal Processing Society Travel Grant for ICASSP 2025, 2025.
 - UNSW 3 Minute Thesis (3MT) Runner-up Prize, School of Electrical Engineering and Telecommunications, 2024.
 - University International Postgraduate Award (UIPA), UNSW, 2022.
@@ -183,6 +166,19 @@ Demonstrated signal processing courses from first-year to fourth-year undergradu
 *May 2022 – December 2024*  
 
 Marked exams, lab reports, and project deliverables for TELE3113, ELEC3104, and ELEC1111.
+
+---
+
+<section id="reviewer"></section>
+
+## Reviewer
+
+### Conferences
+- ICASSP
+- Interspeech
+
+### Journals
+- IEEE Transactions on Affective Computing (TAC)
 
 ---
 
