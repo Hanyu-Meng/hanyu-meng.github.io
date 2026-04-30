@@ -43,10 +43,11 @@
 ;
 
 .org-logo {
-  height: 1em;
+  float: right;
+  height: 1.6em;
   width: auto;
   vertical-align: middle;
-  margin-right: 0.5em;
+  margin-left: 0.5em;
   object-fit: contain;
 }
 
