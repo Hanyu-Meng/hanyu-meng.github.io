@@ -11,14 +11,17 @@ main:
   - title: "About"
     url: /#about
 
-  - title: "Research"
-    url: /#research
+  - title: "Education"
+    url: /#education
+
+  - title: "Experience"
+    url: /#experience
 
   - title: "Publications"
     url: /#publications
 
-  - title: "Experience"
-    url: /#experience
+  - title: "Research"
+    url: /#research
 
   - title: "CV"
     url: /#cv

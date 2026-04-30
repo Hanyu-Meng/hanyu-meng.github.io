@@ -21,14 +21,14 @@ I am a student member of the International Speech Communication Association (ISC
 
 ## Education
 
-### Ph.D. in Speech Signal Processing  
+### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo"> Ph.D. in Speech Signal Processing  
 **University of New South Wales (UNSW), Sydney**  
 *2022 – Current*  
 
 Research project: Biologically inspired selective machine hearing for binaural modelling.  
 Supervisors: Prof. Eliathamby Ambikairajah and A/Prof. Vidhyasaharan Sethu.
 
-### Bachelor of Engineering (Honours) in Telecommunications  
+### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo"> Bachelor of Engineering (Honours) in Telecommunications  
 **University of New South Wales (UNSW), Sydney**  
 *2018 – 2022*  
 
@@ -42,7 +42,7 @@ WAM: 85.77/100.
 
 ## Working Experience
 
-### Research Scientist Intern, Incoming  
+### <img src="/images/logos/meta.jpg" alt="Meta" class="org-logo"> Research Scientist Intern, Incoming  
 **Meta**  
 Cambridge, United Kingdom   
 *June 2026 – December 2026*  
@@ -50,7 +50,7 @@ Cambridge, United Kingdom
 Mentors: Jesus M. Alvarez and Juan Azcarreta Ortiz.  
 Developing new open-ear rendering methods to improve listening experience for speech-in-noise scenarios.
 
-### R&D Engineer Intern  
+### <img src="/images/logos/sony.png" alt="Sony" class="org-logo"> R&D Engineer Intern  
 **Sony Corporation**  
 Osaki, Tokyo, Japan  
 *June 2025 – July 2025*  
@@ -58,7 +58,7 @@ Osaki, Tokyo, Japan
 Mentors: Tomohiro Sawada and Keiichi Taguchi.  
 Designed a customizable interface for music style transfer to support Sony’s Sound AI business.
 
-### Research Intern  
+### <img src="/images/logos/Sony_CSL.png" alt="Sony CSL" class="org-logo"> Research Intern  
 **Sony Computer Science Laboratories**  
 Tokyo, Japan  
 *January 2025 – June 2025*  
@@ -66,7 +66,7 @@ Tokyo, Japan
 Mentor: Taketo Akama.  
 Developed an instrument sound synthesis model using diffusion-based generative models.
 
-### Research Intern  
+### <img src="/images/logos/Dolby.svg" alt="Dolby" class="org-logo"> Research Intern  
 **Dolby Laboratories**  
 Sydney, Australia  
 *May 2024 – September 2024*  
@@ -74,7 +74,7 @@ Sydney, Australia
 Mentors: Jeroen Breebaart and Jeremy Stoddard.  
 Worked on acoustic context estimation from ambisonic speech recordings, including DRR, T60, C50, room volume, and sound orientation. This work led to an ICASSP 2025 paper and an extended EURASIP journal paper.
 
-### Research Assistant  
+### <img src="/images/logos/cas.png" alt="Chinese Academy of Sciences" class="org-logo"> Research Assistant  
 **Institute of Software, Chinese Academy of Sciences**  
 Beijing, China  
 *February 2021 – July 2021*  
