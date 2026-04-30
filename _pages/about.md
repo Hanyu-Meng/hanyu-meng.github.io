@@ -21,14 +21,14 @@ I am a student member of the International Speech Communication Association (ISC
 
 ## Education
 
-### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo"> Ph.D. in Speech Signal Processing  
+### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo org-logo-wide"> Ph.D. in Speech Signal Processing  
 **University of New South Wales (UNSW), Sydney**  
 *2022 – Current*  
 
 Research project: Biologically inspired selective machine hearing for binaural modelling.  
 Supervisors: Prof. Eliathamby Ambikairajah and A/Prof. Vidhyasaharan Sethu.
 
-### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo"> Bachelor of Engineering (Honours) in Telecommunications  
+### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo org-logo-wide"> Bachelor of Engineering (Honours) in Telecommunications  
 **University of New South Wales (UNSW), Sydney**  
 *2018 – 2022*  
 
@@ -58,7 +58,7 @@ Osaki, Tokyo, Japan
 Mentors: Tomohiro Sawada and Keiichi Taguchi.  
 Designed a customizable interface for music style transfer to support Sony’s Sound AI business.
 
-### <img src="/images/logos/Sony_CSL.png" alt="Sony CSL" class="org-logo"> Research Intern  
+### <img src="/images/logos/Sony_CSL.png" alt="Sony CSL" class="org-logo org-logo-wide"> Research Intern  
 **Sony Computer Science Laboratories**  
 Tokyo, Japan  
 *January 2025 – June 2025*  
