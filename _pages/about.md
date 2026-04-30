@@ -51,8 +51,8 @@ WAM: 85.77/100.
 Cambridge, United Kingdom   
 *June 2026 – December 2026*  
 
-Mentors: Jesus M. Alvarez and Juan Azcarreta Ortiz.  
-Developing new open-ear rendering methods to improve listening experience for speech-in-noise scenarios.
+<!-- Mentors: Jesus M. Alvarez and Juan Azcarreta Ortiz.  
+Developing new open-ear rendering methods to improve listening experience for speech-in-noise scenarios. -->
 
 ### <img src="/images/logos/sony.png" alt="Sony" class="org-logo"> R&D Engineer Intern  
 **Sony Corporation**  
