@@ -27,14 +27,14 @@ My research interests include:
 
 ### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo org-logo-wide"> Ph.D. in Speech Signal Processing  
 **University of New South Wales (UNSW), Sydney**  
-*2022 – Current*  
+*June 2022 – June 2026*  
 
 Research project: Biologically inspired selective machine hearing for binaural modelling.  
 Supervisors: Prof. Eliathamby Ambikairajah and A/Prof. Vidhyasaharan Sethu.
 
 ### <img src="/images/logos/UNSW.png" alt="UNSW" class="org-logo org-logo-wide"> Bachelor of Engineering (Honours) in Telecommunications  
 **University of New South Wales (UNSW), Sydney**  
-*2018 – 2022*  
+*July 2018 – May 2022*  
 
 First Class Honours.  
 Honours thesis: Singing Voice Separation by Embedding Accompaniment Repetitive Features into the Deep Neural Network.  
