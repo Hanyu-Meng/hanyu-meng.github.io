@@ -17,13 +17,34 @@ I am a student member of the International Speech Communication Association (ISC
 
 ---
 
+<section id="education"></section>
+
+## Education
+
+### Ph.D. in Speech Signal Processing  
+**University of New South Wales (UNSW), Sydney**  
+*2022 – Current*  
+
+Research project: Biologically inspired selective machine hearing for binaural modelling.  
+Supervisors: Prof. Eliathamby Ambikairajah and A/Prof. Vidhyasaharan Sethu.
+
+### Bachelor of Engineering (Honours) in Telecommunications  
+**University of New South Wales (UNSW), Sydney**  
+*2018 – 2022*  
+
+First Class Honours.  
+Honours thesis: Singing Voice Separation by Embedding Accompaniment Repetitive Features into the Deep Neural Network.  
+WAM: 85.77/100.
+
+---
+
 <section id="experience"></section>
 
 ## Working Experience
 
 ### Research Scientist Intern, Incoming  
 **Meta**  
-Cambridge, United Kingdom  
+Cambridge, United Kingdom   
 *June 2026 – December 2026*  
 
 Mentors: Jesus M. Alvarez and Juan Azcarreta Ortiz.  
@@ -59,20 +80,6 @@ Beijing, China
 *February 2021 – July 2021*  
 
 Worked on parallel computing and deep learning-based image segmentation for industrial vehicle fault detection.
-
-### Telecommunication Intern  
-**China Telecom Cloud Computing Co., Ltd.**  
-Beijing, China  
-*December 2019 – February 2020*  
-
-Worked on switch device operation and maintenance, remote access scripts in Python, and cybersecurity-related tasks.
-
-### Algorithm Intern  
-**Beijing Ultrapower Software / New Singularity International Technology Development Co., Ltd.**  
-Beijing, China  
-*May 2018 – July 2018*  
-
-Learned basic operating system concepts and C/C++ applications in computer games.
 
 ---
 
@@ -141,27 +148,6 @@ I work on acoustic context estimation from spatial audio recordings, including t
 ### Music Information Retrieval
 
 I am also interested in symbolic music understanding, automatic music transcription, perceptually motivated audio features, and generative AI for music information retrieval.
-
----
-
-<section id="education"></section>
-
-## Education
-
-### Ph.D. in Speech Signal Processing  
-**University of New South Wales (UNSW), Sydney**  
-*2022 – Current*  
-
-Research project: Biologically inspired selective machine hearing for binaural modelling.  
-Supervisors: Prof. Eliathamby Ambikairajah and A/Prof. Vidhyasaharan Sethu.
-
-### Bachelor of Engineering (Honours) in Telecommunications  
-**University of New South Wales (UNSW), Sydney**  
-*2018 – 2022*  
-
-First Class Honours.  
-Honours thesis: Singing Voice Separation by Embedding Accompaniment Repetitive Features into the Deep Neural Network.  
-WAM: 85.77/100.
 
 ---
 
